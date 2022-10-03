@@ -3,7 +3,7 @@
 ## Author name and contact info 
 (please provide a reliable point of contact for the project):
 
-I understand that I will be required to provide additional KYC information to the Jfinchain Foundation to receive this grant: [Yes/No]
+I understand that I will be required to provide additional KYC information to the Jfinchain  to receive this grant: [Yes/No]
 
 ## Recipient address:
 
