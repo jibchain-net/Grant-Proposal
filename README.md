@@ -46,7 +46,7 @@ Yes
 What is the problem statement this proposal hopes to solve for the JIBChain ecosystem?
 How does your proposal offer a value proposition solving the above problem?
 Why will this solution be a source of growth for the JIBChain ecosystem?
-Has your project previously applied for an JFIN grant? If successful, please link to your previous grant proposal and provide a brief update on milestones achieved with the grant. If unsuccessful, and this is a resubmission, please specify how you have incorporated significant changes in accordance with feedback.
+Has your project previously applied for an JBC grant? If successful, please link to your previous grant proposal and provide a brief update on milestones achieved with the grant. If unsuccessful, and this is a resubmission, please specify how you have incorporated significant changes in accordance with feedback.
 
 This project will create liquidity for JBC Coin through the Bitkub chain. The CMM team has many communities on Bitkub including JIB Chain such as
 https://www.facebook.com/groups/morningmoonvillage/
