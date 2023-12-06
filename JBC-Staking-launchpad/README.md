@@ -1,5 +1,5 @@
 ## Project name:
-JBC INFRA: ติดตั้งและดูแล RPC Archive node และ Blockscout new Frontend
+JBC Staking Launchpad
 
 ## Author name and contact info 
 (please provide a reliable point of contact for the project):
