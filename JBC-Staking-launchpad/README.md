@@ -55,7 +55,7 @@ Has your project previously applied for a JBC grant? If successful, please link 
 
 ## Number of JBC tokens requested:
 
-- to be input
+- 25,000 JBC
 
 ## Did the project apply for or receive JBC tokens through the Foundation Partner Fund?:
 - [ ] Yes
