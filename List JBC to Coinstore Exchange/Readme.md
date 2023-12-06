@@ -1,40 +1,43 @@
-## Project name:
+## Project name: List JBC Coin at Coinstore Exchange
 
 ## Author name and contact info 
-(please provide a reliable point of contact for the project):
+(please provide a reliable point of contact for the project): 
+Name: Vutichai Kunpipat
+Discord: https://discord.gg/D7RsPVhhej
+Facebook page: https://www.facebook.com/cmhexa
 
-I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: [Yes/No]
+I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: Yes
 
-## Recipient address:
+## Recipient address: 0x5B785fab869d2c2FA14e383CbEA15de17A361a6B
 
 
 ## Grant category: (DeFi, NFT, Tooling, Other)
-
+Exchange
 
 ## Project description (please explain how your project works):
+The CM team in charge of JIB Chain wants to create more liquidity in the ecosystem, so we would like to list JBC by the community,so we request a JBC Grant to reward those who purchase NFTs and use the proceeds to list JBC Coin at Coinstore Exchange.
 
 ## Project links:
 
-* Website:
-* Twitter:
-* Discord/Discourse/Community:
+* Facebook: https://www.facebook.com/cmhexa
+* Discord/Discourse/Community: https://discord.gg/D7RsPVhhej
 * Please include all other relevant links below:
 
-## Additional team member info (please link):
+## Additional team member info (please link): https://commu-token-cm.gitbook.io/cmm-token/about-token/developer
 
-## Please link to any previous projects the team has meaningfully contributed to:
+## Please link to any previous projects the team has meaningfully contributed to: https://commu-token-cm.gitbook.io/cmm-token/whitepaper-version/whitepaper-1.0
 
 ## Relevant usage metrics 
-(TVL, transactions, volume, unique addresses, etc. JIBChain metrics preferred; please link to public sources such as Dune Analytics, etc.):
+(TVL, transactions, volume, unique addresses, etc. JIBChain metrics preferred; please link to public sources such as Dune Analytics, etc.): Number of transactions on https://commudao.xyz/
 
 ## Competitors, peers, or similar projects 
-(please link):
+(please link): Bitkub Exchange
 
 ## Is/will this project be open sourced? 
-Yes/No/In Future
+Yes
 
 
-## Date of deployment/expected deployment on JBC Chain:
+## Date of deployment/expected deployment on JBC Chain: 1 JAN 2024
 
 ## Ecosystem Value Proposition:
 
