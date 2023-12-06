@@ -72,7 +72,7 @@ Why will this solution be a source of growth for the JIBChain ecosystem?
 Has your project previously applied for an JBC grant? If successful, please link to your previous grant proposal and provide a brief update on milestones achieved with the grant. If unsuccessful, and this is a resubmission, please specify how you have incorporated significant changes in accordance with feedback.
 -We have never applied for funding from JBC.
 
-## Number of JBC tokens requested: 100,000 JBC
+## Number of JBC tokens requested: 150,000 JBC
 
 ## Did the project apply for or receive JBC tokens through the Foundation Partner Fund?:
 No
