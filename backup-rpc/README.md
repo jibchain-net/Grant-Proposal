@@ -1,6 +1,6 @@
 ## Project name:
 
-Backup RPC: Install and maintain RPC Archive node and open to public users for free.
+Backup RPC: Install and maintain RPC and Websocket of archive node and open to public users for free.
 
 ## Author name and contact info
 
@@ -27,7 +27,7 @@ I understand that I will be required to provide additional KYC information to th
 
 ## Project description (please explain how your project works):
 
-Install and maintain RPC Archive node and open to public users for free.
+Install and maintain RPC and Websocket of archive node and open to public users for free.
 
 ## Project links:
 
