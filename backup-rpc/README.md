@@ -57,7 +57,7 @@ Install and maintain RPC Archive node and open to public users for free.
 ## Date of deployment/expected deployment on JIBChain:
 
 - Already deployed (https://jib-rpc.inan.in.th)
-![image](https://github.com/nanthanwa/Grant-Proposal/assets/7475592/9a3df749-d908-497a-ae79-6704cad48e35)
+  ![image](https://github.com/nanthanwa/Grant-Proposal/assets/7475592/9a3df749-d908-497a-ae79-6704cad48e35)
 
 ## Ecosystem Value Proposition:
 
@@ -88,7 +88,7 @@ Has your project previously applied for an JBC grant? If successful, please link
 
 ## Proposal for token distribution:
 
-- Use for maintain the service by pay for cloud infrastructure.
+- Use for maintain the service by pay for cloud infrastructure and stake JBC to create more validators.
 
 ## KPI
 
