@@ -73,6 +73,8 @@ Has your project previously applied for an JBC grant? If successful, please link
 -We have never applied for funding from JBC.
 
 ## Number of JBC tokens requested: 150,000 JBC
+LP Token SupplyWar 5,000,000/50,000 JBC 
+LP Token Angel blessing 1,000,000 / 100,000 JBC
 
 ## Did the project apply for or receive JBC tokens through the Foundation Partner Fund?:
 No
@@ -84,6 +86,9 @@ I don't know because we will use all of JBC to place the LP to make the project 
 (not required but recommended, when applicable):There is a high chance because our project has already happened in the real world. All that remains is to connect with chains in the NFT and Defi world, so working with JBC is a non-starter. But it is about supporting growth. that can be mutually beneficial.
 
 ## Proposal for token distribution:
+
+13,700 SupplyWar = 137 JBC  (perday)
+2,730 Angel blessing = 273 JBC (perday)
 
 How will the JBC tokens be distributed? (please include % allocated to different initiatives such as user rewards/marketing/liquidity mining. Please also include a justification as to why each of these initiatives align with the problem statement this proposal is solving.) 
 -100% is to place an LP/Project Token as a reward in the GameFi.
