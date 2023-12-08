@@ -43,7 +43,7 @@ Install and maintain RPC Archive node and open to public users for free.
 
 ## Relevant usage metrics
 
-- Provide RPC and Explorer service to 100k users.
+- Provide RPC service to 100k users.
 
 ## Competitors, peers, or similar projects
 
