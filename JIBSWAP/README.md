@@ -94,7 +94,7 @@ Decentralized Cryptocurrency Exchange (DEX) using Automated Market Maker (AMM) m
 ## Proposal for token distribution:
 
 - 100,000 JBC (67%) for community airdrop and liquidity mining
-- 30,000 JBC (20%) for development and maintenance self-hosted graphnode server (for https://info.jibswap.com/) until [https://github.com/jibchain-net/Grant-Proposal/pull/11](Grant for new graphnode) is ready to use.
+- 30,000 JBC (20%) for development and maintenance self-hosted graphnode server (for https://info.jibswap.com/) until [Grant for new graphnode](https://github.com/jibchain-net/Grant-Proposal/pull/11) is ready to use.
 - 20,000 JBC (13%) for marketing and management
 
 ## Please list the milestones/KPIs you expect to achieve for each initiative, considering how each relates to incentivizing sustainable usage and liquidity on JIBChain.
