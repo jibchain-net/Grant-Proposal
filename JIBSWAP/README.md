@@ -102,7 +102,8 @@ Decentralized Cryptocurrency Exchange (DEX) using Automated Market Maker (AMM) m
 - Airdrop campaign will be lunch on Q1 2024
 - Liquidity mining will be lunch on Q1 2024
 - Increase twitter followers to 5,000 on Q1 2024
-  Note: it depends on the market condition, and community feedback, we will adjust the timeline accordingly.
+
+Note: it depends on the market condition, and community feedback, we will adjust the timeline accordingly.
 
 ## Why will incentivized users and liquidity on JIBChain remain after incentives dry up?
 
