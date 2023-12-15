@@ -1,4 +1,6 @@
-## Project name: JIBSWAP
+## Project name:
+
+JIBSWAP
 
 ## Author name and contact info
 
@@ -35,67 +37,77 @@ Decentralized Cryptocurrency Exchange (DEX) using Automated Market Maker (AMM) m
 
 -
 
-## Relevant usage metrics
+## Relevant usage metrics:
 
 (TVL, transactions, volume, unique addresses, etc. JIBChain metrics preferred; please link to public sources such as Dune Analytics, etc.):
 
 - https://info.jibswap.com/
 
-## Competitors, peers, or similar projects
+## Competitors, peers, or similar projects:
 
-Uniswap v2 (https://app.uniswap.org/), Sushiswap (https://www.sushi.com/swap)
+- Uniswap v2 (https://app.uniswap.org/)
+- Sushiswap (https://www.sushi.com/swap)
 
 ## Is/will this project be open sourced?
 
-Yes (https://github.com/jibswap/jibswap-core)
+- Yes (https://github.com/jibswap/jibswap-core)
 
 ## Date of deployment/expected deployment on JIB Chain:
 
-Deployed on Dec 14 2023 (https://exp-l1.jibchain.net/tx/0xbda6f1a8749dc8b1e0442472589b749edb3264e2b30ca5498dd477a9bad48973)
+- We have deployed on Dec 14 2023 (https://exp-l1.jibchain.net/tx/0xbda6f1a8749dc8b1e0442472589b749edb3264e2b30ca5498dd477a9bad48973)
 
 ## Ecosystem Value Proposition:
 
-What is the problem statement this proposal hopes to solve for the JIBChain ecosystem?
+# What is the problem statement this proposal hopes to solve for the JIBChain ecosystem?
 
-How does your proposal offer a value proposition solving the above problem?
+- On the current ecosystem, there is no many DEX that support Uniswap V.2 interface. It will hard for users to use JIBChain ecosystem.
+- Users cannot arbitrage asset between protocol on JIBChain ecosystem.
 
-Why will this solution be a source of growth for the JIBChain ecosystem?
+# How does your proposal offer a value proposition solving the above problem?
 
-Has your project previously applied for an JIB grant? If successful, please link to your previous grant proposal and provide a brief update on milestones achieved with the grant. If unsuccessful, and this is a resubmission, please specify how you have incorporated significant changes in accordance with feedback.
+- This project will provide DEX that support Uniswap V.2 interface.
+
+# Why will this solution be a source of growth for the JIBChain ecosystem?
+
+- The important foundation of DeFi is AMM DEX. So this project will be a source of growth for the JIBChain ecosystem.
+
+## Has your project previously applied for an JIB grant?
+
+- No
 
 ## Number of JIB Token requested:
 
-150,000 JBC
+- 150,000 JBC
 
 ## Did the project apply for or receive JIB Token through the Foundation Partner Fund?:
 
-No
+- No
 
 ## If JIB Token were requested from the Foundation Partner Fund, what was the amount?:
 
-0
+- 0
 
 ## How much will your project match in co-incentives?
 
-(not required but recommended, when applicable):
+- N/A
 
 ## Proposal for token distribution:
 
-How will the JIB Token be distributed? (please include % allocated to different initiatives such as user rewards/marketing/liquidity mining. Please also include a justification as to why each of these initiatives align with the problem statement this proposal is solving.)
-
 - 100,000 JBC (67%) for community airdrop and liquidity mining
-- 30,000 JBC (20%) for development and maintenance subgraphs (both https://jibswap.com/ and https://info.jibswap.com/) for first year
+- 30,000 JBC (20%) for development and maintenance self-hosted subgraphs server (for https://info.jibswap.com/) for first year
 - 20,000 JBC (13%) for marketing and management
 
-Over what period of time will the tokens be distributed for each initiative? Shorter timelines are preferable to longer timelines. Shorter timelines (on the order of weeks) allow teams to quickly demonstrate achievement of milestones, better facilitating additional grants via subsequent proposals.
-
-Please list the milestones/KPIs you expect to achieve for each initiative, considering how each relates to incentivizing sustainable usage and liquidity on JIBChain.
+## Please list the milestones/KPIs you expect to achieve for each initiative, considering how each relates to incentivizing sustainable usage and liquidity on JIBChain.
 
 - Airdrop campaign will be lunch on Q1 2024
 - Liquidity mining will be lunch on Q1 2024
+- Increase twitter followers to 5,000 on Q1 2024
+  Note: it depends on the market condition, and community feedback, we will adjust the timeline accordingly.
 
-Please keep in mind that progress towards these milestones/KPIs should be trackable.
+## Why will incentivized users and liquidity on JIBChain remain after incentives dry up?
 
-Why will incentivized users and liquidity on JIBChain remain after incentives dry up?
+- JIBSWAP will be the best DEX on JIBChain ecosystem in term of user experience and liquidity.
 
-Please provide any additional information that will facilitate accountability: https://docs.jibswap.com/smart-contracts
+## Please provide any additional information that will facilitate accountability:
+
+- https://docs.jibswap.com/smart-contracts
