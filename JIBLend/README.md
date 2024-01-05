@@ -112,7 +112,7 @@ JIBLend is an innovative decentralized finance (DeFi) protocol designed to opera
 ## Please list the milestones/KPIs you expect to achieve for each initiative, considering how each relates to incentivizing sustainable usage and liquidity on JIBChain.
 
 - Airdrop campaign will be lunch on Q1 2024
-- Expect to have at least 5M USD in TVL on Q1 2024
+- Expect to have at least 300k USD in TVL on Q1 2024
 
 Note: it depends on the market condition, and community feedback, we will adjust the timeline accordingly.
 
