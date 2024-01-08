@@ -4,8 +4,7 @@ e-Credit Certificate for Department of Computer, Faculty of Science, Silkpakorn 
 
 ![image](https://github.com/JBC-e-Credit-Certificate/Grant-Proposal/assets/7013039/0fb72e09-01a0-4534-958e-6ab0dddd12d4)
 
-![image](https://github.com/JBC-e-Credit-Certificate/Grant-Proposal/assets/7013039/81bd8262-3f0a-402d-9ded-3d84069d7f49)
-
+![image](https://github.com/JBC-e-Credit-Certificate/Grant-Proposal/assets/7013039/c7c33448-d762-4be6-bc76-53b3fdf3c0a8)
 
 ## Author name and contact info 
 (please provide a reliable point of contact for the project):
@@ -77,7 +76,8 @@ Has your project previously applied for an JBC grant? If successful, please link
 
 ใช้สำหรับเป็นค่าใช้จ่าย
  - Cloud Server Cost
- - Development Cost 
+ - Development Cost
+ - Authentication Service (ThaiD)
  - Gas
  - Reasearching & Expanding
 
