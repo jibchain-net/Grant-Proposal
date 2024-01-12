@@ -79,7 +79,7 @@ Has your project previously applied for an JBC grant? If successful, please link
  - Development Cost
  - Authentication Service (ThaiD)
  - Gas
- - Reasearching & Expanding
+ - Researching & Expanding
 
 ## KPI
 - Ready for production on Q2/2024 
