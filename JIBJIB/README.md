@@ -49,7 +49,7 @@ JIBJIB is set to play a central role in driving the adoption and usage of the JB
 
 
 ## Additional team member info (please link):
-- ืnone
+- none
 --------------------------------------------
 
 
