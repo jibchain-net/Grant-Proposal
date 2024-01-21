@@ -6,7 +6,7 @@ JIBJIB
 (please provide a reliable point of contact for the project): 
 1. MR.CHAIYA CHAMARUM (GA) https://www.facebook.com/kakama.ed 
 Tell.093-167-6088 
-2. MR.KAMPEE WONGNIKOM (CARTOON) linkedin.com/in/kampeew
+2. MR.KAMPEE WONGNIKOM (CARTOON) linkedin.com/in/kampeew Tell.096-2900-841 
 
 I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: [Yes/No]
 - [x] **Yes**
