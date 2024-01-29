@@ -55,7 +55,7 @@ https://exp-l1.jibchain.net/address/0x10d648c2F72dcCb43aEd49378eEA9aF7C9B328C6
 
 ## Is/will this project be open sourced?
 
-- Yes (https://github.com/JIBID-JNS)
+- Yes (https://github.com/jibpoint-dev/jibpoint)
 
 ## Date of deployment/expected deployment on JIB Chain:
 
