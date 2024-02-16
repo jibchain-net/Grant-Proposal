@@ -1,4 +1,4 @@
-## Project name:
+## Project name: Diamon Finance
 
 ## Author name and contact info 
 (please provide a reliable point of contact for the project):
@@ -15,7 +15,7 @@ I understand that I will be required to provide additional KYC information to th
 
 ## Project links:
 
-* Website:
+* Website: diamon.finance
 * Twitter:
 * Discord/Discourse/Community:
 * Please include all other relevant links below:
