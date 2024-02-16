@@ -57,5 +57,6 @@ Yes/No/In Process
 
 JBC Staking 
 Releasing 500,000 JBC within 1 year period 
+
 JBC Farm 
 Releasing 500,000 JBC within 1 year period
