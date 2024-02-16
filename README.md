@@ -40,10 +40,7 @@ Yes/No/In Future
 
 ## Ecosystem Value Proposition:
 
-What is the problem statement this proposal hopes to solve for the JIBChain ecosystem?
-How does your proposal offer a value proposition solving the above problem?
-Why will this solution be a source of growth for the JIBChain ecosystem?
-Has your project previously applied for an JIB grant? If successful, please link to your previous grant proposal and provide a brief update on milestones achieved with the grant. If unsuccessful, and this is a resubmission, please specify how you have incorporated significant changes in accordance with feedback.
+Diamon Finance is willing to support and raise the awareness of JBC and JIB Chain to the global DeFi community. With over [เติมตัวเลข] daily users on Diamon Finance, we can present JBP and JIB Chain broadly to Southeast Asian DeFi fanatics.
 
 ## Number of JBC Token requested:
 500,000 JBC for 1 Year
@@ -58,8 +55,7 @@ Yes/No/In Process
 
 ## Proposal for token distribution:
 
-How will the JBC Token be distributed? (please include % allocated to different initiatives such as user rewards/marketing/liquidity mining. Please also include a justification as to why each of these initiatives align with the problem statement this proposal is solving.)
-Over what period of time will the tokens be distributed for each initiative? Shorter timelines are preferable to longer timelines. Shorter timelines (on the order of weeks) allow teams to quickly demonstrate achievement of milestones, better facilitating additional grants via subsequent proposals.
-Please list the milestones/KPIs you expect to achieve for each initiative, considering how each relates to incentivizing sustainable usage and liquidity on JIBChain. Please keep in mind that progress towards these milestones/KPIs should be trackable.
-Why will incentivized users and liquidity on JIBChain remain after incentives dry up?
-Please provide any additional information that will facilitate accountability:(smart contracts addresses relevant to the proposal, relevant organizational wallet addresses, etc.)
+JBC Staking 
+Releasing 500,000 JBC within 1 year period 
+JBC Farm 
+Releasing 500,000 JBC within 1 year period
