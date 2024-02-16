@@ -1,21 +1,23 @@
-## Project name: Diamon Finance
+## Project name: 
+Diamon Finance
 
 ## Author name and contact info 
-(please provide a reliable point of contact for the project):
+James Kirk
 
 I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: [Yes/No]
 
 ## Recipient address:
-
+0x723797B0dbCF542f49C755AB9D6E8064BAe21FA0
 
 ## Grant category: (DeFi, NFT, Tooling, Other)
-
+Defi
 
 ## Project description (please explain how your project works):
 
+
 ## Project links:
 
-* Website: diamon.finance
+* Website: [diamon.finance](https://www.facebook.com/DiamonFinance)
 * Twitter:
 * Discord/Discourse/Community:
 * Please include all other relevant links below:
