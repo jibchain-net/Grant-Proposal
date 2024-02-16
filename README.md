@@ -54,9 +54,5 @@ Yes/No/In Process
 (not required but recommended, when applicable):
 
 ## Proposal for token distribution:
-
-JBC Staking 
-Releasing 500,000 JBC within 1 year period 
-
-JBC Farm 
-Releasing 500,000 JBC within 1 year period
+JBC Staking and Farm
+Releasing for both programs with the amount of 500,000 JBC within 1 year period
