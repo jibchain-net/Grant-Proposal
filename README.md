@@ -40,7 +40,7 @@ Yes/No/In Future
 
 ## Ecosystem Value Proposition:
 
-Diamon Finance is willing to support and raise the awareness of JBC and JIB Chain to the global DeFi community. With over [เติมตัวเลข] daily users on Diamon Finance, we can present JBP and JIB Chain broadly to Southeast Asian DeFi fanatics.
+Diamon Finance is willing to support and raise the awareness of JBC and JIB Chain to the global DeFi community. With over 14,100 million Thai Baht from trusted Southeast Asian DeFi trader accumulate on Diamon Finance as total trading volume, we can present JBP and JIB Chain broadly to Southeast Asian DeFi fanatics.
 
 ## Number of JBC Token requested:
 500,000 JBC for 1 Year
