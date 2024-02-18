@@ -4,14 +4,14 @@ FreeCity
 
 ## Author name and contact info 
 
-FreeCity Team (block0x00@gmail.com)
+FreeCity Team (https://www.facebook.com/freecity.nfts)
 
 I understand that I will be required to provide additional KYC information to the JIBChain  to receive this grant: Yes
 
 ## Recipient address:
 
 ```
-0x1E9fab3842660153950AAaAD83147cF2424A5EB9
+0x46BAf978C572Ff53ee84c7c2CB7D8997A018e253
 ```
 
 ## Grant category: (DeFi, NFT, Tooling, Other)
