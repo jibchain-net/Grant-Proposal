@@ -28,7 +28,7 @@ Participants will learn to build decentralized applications (DApps) that interac
 Whether a beginner or an experienced developer, entrepreneur, or professional, the JBC Workshop provides a unique opportunity to dive into the world of blockchain technology. With its practical approach and expert instructors, this project empowers individuals to thrive in the rapidly evolving blockchain landscape.
 
 ## Project links:
-- [Standard Smart Contracts])https://github.com/domecloud/standard_contracts)
+- [Standard Smart Contracts](https://github.com/domecloud/standard_contracts)
 - [Smart Contracts Deploying Tutorial](https://docs.google.com/document/d/1JvZiPRcybg5PEAoE0r9YPI31MWcuXyPSHOcZFeKxgR0/edit?usp=drivesdk)
 - [DApp Client Tutorial](github.com/earthchie/DApp-Client-Tutorial)
 
@@ -77,3 +77,13 @@ Industry Collaboration:
 The workshops can facilitate collaboration between the JIBChain ecosystem and various industries. By demonstrating real-world use cases and solutions, the project can attract businesses and organizations seeking to leverage blockchain technology, fostering cross-industry partnerships and driving enterprise adoption.
 
 Overall, the JBC Workshop project will act as a catalyst for the growth and maturation of the JIBChain ecosystem, nurturing talent, fostering innovation, building a strong community, raising awareness, and facilitating industry collaborations – all essential elements for the long-term success and sustainability of the network.
+
+## Proposal for token distribution:
+
+ - Cloud Server Cost
+ - Course Development Cost
+ - Tuition Fee
+ - Team
+ - Workshop Material (Airdrops, sheets, equipment, etc)
+ - Workshop Accommodation (Location, snack, food, drink)
+ - Budget for additional cost (transportation, etc.)
