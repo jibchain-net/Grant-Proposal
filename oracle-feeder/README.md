@@ -95,7 +95,7 @@ https://exp-l1.jibchain.net/address/0xE3Cd56CF250E8dCc4940BE992ABfAf78a589c66f
 
 ## Proposal for token distribution:
 
-- 50,000 JBC for the Oracle feeder both for the development and operation of the service for 2 years.
+- 50,000 JBC for the Oracle feeder both for the development and operation of the service for 1 years.
 
 ## Please list the milestones/KPIs you expect to achieve for each initiative, considering how each relates to incentivizing sustainable usage and liquidity on JIBChain.
 
